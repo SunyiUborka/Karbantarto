@@ -71,7 +71,7 @@ namespace WinForm
                     sw.Close();
                 }
                 else {
-                    System.Windows.Forms.DialogResult result = System.Windows.Forms.MessageBox.Show("Test", "ehe", System.Windows.Forms.MessageBoxButtons.YesNo);
+                    System.Windows.Forms.DialogResult result = System.Windows.Forms.MessageBox.Show("A fájl már létezik! Felül szeretnéd írni?", "Létező fájl!", System.Windows.Forms.MessageBoxButtons.YesNo);
                     if (result == System.Windows.Forms.DialogResult.Yes)
                     {
                         StreamWriter sw = new StreamWriter(fileName, true, Encoding.UTF8);
@@ -121,7 +121,6 @@ namespace WinForm
         }
         public void AddKarbantartas(string MegNev, string SzerNev, int Time, DateTime Date)
         {
-            bool good = true;
             Karbantartasok karbantartas = new Karbantartasok();
             if (Time >= 1 && Time <= 8 && Date <= DateTime.Now)
             {
@@ -131,7 +130,6 @@ namespace WinForm
                     karbantartas.datum = Date;
                     karbantartas.megrendelo_id = GetByNevMegrendelo(MegNev).megrendelo_id;
                     karbantartas.szerelo_id = GetByNevSzerelo(SzerNev).szerelo_id;
-                    good = false;
                 }
                 catch
                 {

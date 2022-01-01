@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XrnuEhyNNo/bKHto96G6FyZb5F283gj7SW0axoIue0WvFR+GiWzF5Whd+gImwTPp/hEG0IydPy/ykDRVp2+6aQ==",
+  "dgSpecHash": "Sm8ENpawwvWDx+4W+NRniVwJ2SQsP/2a1VudH0LJE/KQ3uPDjUSFeep2I+zGr0GS4ZUSqMaT7U0kQ3vB9xz6jA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\csehi\\source\\repos\\WinForm\\WinForm.csproj",
+  "projectFilePath": "D:\\gitshit\\Karbantarto\\WinForm\\WinForm.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\csehi\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.5\\microsoft.entityframeworkcore.5.0.5.nupkg.sha512",
     "C:\\Users\\csehi\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.5\\microsoft.entityframeworkcore.abstractions.5.0.5.nupkg.sha512",

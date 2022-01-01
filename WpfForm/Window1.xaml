@@ -1,0 +1,19 @@
+﻿<Window x:Class="WpfForm.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfForm"
+        mc:Ignorable="d"
+        Title="Window1" Height="350" Width="250" MaxHeight="350" MaxWidth="250" MinWidth="250" MinHeight="350" Loaded="Window_Loaded">
+    <Grid>
+        <TextBox HorizontalAlignment="Left" Margin="93,72,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Height="26" Name="textBox1"/>
+        <Calendar Name="dateTimePicker1" HorizontalAlignment="Left" Margin="10,103,0,0" VerticalAlignment="Top" Width="203"/>
+        <Label Content="Megrendelő" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="Szerelő" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top" Width="75"/>
+        <Label Content="Javítási idő" HorizontalAlignment="Left" Margin="10,72,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Content="Hozzáadás" HorizontalAlignment="Left" Margin="81,276,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+        <ComboBox HorizontalAlignment="Left" Margin="93,12,0,0" VerticalAlignment="Top" Width="120" Name="comboBox1"/>
+        <ComboBox HorizontalAlignment="Left" Margin="93,43,0,0" VerticalAlignment="Top" Width="120" Name="comboBox2"/>
+    </Grid>
+</Window>

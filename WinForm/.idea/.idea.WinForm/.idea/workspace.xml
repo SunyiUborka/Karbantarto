@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b18e98d-7983-449a-818b-6300adc10336" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.vs/WinForm/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vs/WinForm/v16/.suo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form2.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form2.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form2.resx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form3.Designer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form3.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Form3.resx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KarbantartasokList.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/KarbantartoRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/net5.0-windows/Microsoft.EntityFrameworkCore.Abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/net5.0-windows/Microsoft.EntityFrameworkCore.Relational.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/net5.0-windows/Microsoft.EntityFrameworkCore.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/net5.0-windows/Microsoft.Extensions.Caching.Abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/net5.0-windows/Microsoft.Extensions.Caching.Memory.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/net5.0-windows/Microsoft.Extensions.Configuration.Abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/net5.0-windows/Microsoft.Extensions.DependencyInjection.Abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/net5.0-windows/Microsoft.Extensions.DependencyInjection.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/net5.0-windows/Microsoft.Extensions.Logging.Abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/net5.0-windows/Microsoft.Extensions.Logging.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/net5.0-windows/Microsoft.Extensions.Options.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/net5.0-windows/Microsoft.Extensions.Primitives.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/net5.0-windows/MySqlConnector.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/net5.0-windows/Pomelo.EntityFrameworkCore.MySql.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/net5.0-windows/System.Diagnostics.DiagnosticSource.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/net5.0-windows/WinForm.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/net5.0-windows/WinForm.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/net5.0-windows/WinForm.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/net5.0-windows/WinForm.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/net5.0-windows/WinForm.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/net5.0-windows/WinForm.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/Debug/net5.0-windows/ref/WinForm.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/Karbantartasok.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/Megrendelok.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/Szakteruletek.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/net5.0-windows/WinForm.Form1.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/net5.0-windows/WinForm.Form2.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/net5.0-windows/WinForm.Form3.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/net5.0-windows/WinForm.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/net5.0-windows/WinForm.csproj.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/net5.0-windows/WinForm.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/net5.0-windows/WinForm.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/net5.0-windows/WinForm.csproj.GenerateResource.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/net5.0-windows/WinForm.designer.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/net5.0-windows/WinForm.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/net5.0-windows/WinForm.genruntimeconfig.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/net5.0-windows/WinForm.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/net5.0-windows/apphost.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/obj/Debug/net5.0-windows/ref/WinForm.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WinForm/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WinForm/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WinForm/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WinForm/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Form1.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Form1.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Form1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Form1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Form1.resx" beforeDir="false" afterPath="$PROJECT_DIR$/Form1.resx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KarabantartoRepository.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KarbantartoDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/KarbantartoDbContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinForm.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/WinForm.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinForm.csproj.user" beforeDir="false" afterPath="$PROJECT_DIR$/WinForm.csproj.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinForm.sln" beforeDir="false" afterPath="$PROJECT_DIR$/WinForm.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WinForm.sln.DotSettings.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/Karbantartas.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/Megrendelo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/Szakterulet.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/Szerelo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/models/Szerelok.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0-windows/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0-windows/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0-windows/WinForm.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0-windows/WinForm.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0-windows/WinForm.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0-windows/WinForm.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0-windows/WinForm.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0-windows/WinForm.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0-windows/WinForm.GlobalUsings.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0-windows/WinForm.assets.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0-windows/WinForm.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0-windows/WinForm.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0-windows/WinForm.designer.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0-windows/WinForm.designer.runtimeconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net5.0-windows/WinForm.designer.runtimeconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/WinForm.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/WinForm.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/project.packagespec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/rider.project.restore.info" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="234E9XaALVTJZXcFG33Hlh64DAB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <created>1640984824885</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640984824885</updated>
+      <workItem from="1640984826811" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

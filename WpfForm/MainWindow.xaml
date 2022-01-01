@@ -1,0 +1,23 @@
+﻿<Window x:Class="WpfForm.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfForm"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" MaxHeight="450" MaxWidth="800" MinWidth="800" MinHeight="450" Loaded="Window_Loaded">
+    <Grid>
+
+
+        <TextBox HorizontalAlignment="Left" Margin="10,10,0,0" Text="Szerelő név" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox HorizontalAlignment="Left" Margin="135,10,0,0" Text="Összeg" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Grid.ColumnSpan="2"/>
+        <Button Content="Keresés" HorizontalAlignment="Left" Margin="260,9,0,0" VerticalAlignment="Top"/>
+        <Button Content="Új" Margin="10,369,714,0" VerticalAlignment="Top" Click="Button_Click"/>
+        <Button Content="Mentés" HorizontalAlignment="Right" Margin="0,369,10,0" VerticalAlignment="Top" Width="60" Grid.Column="2" Click="Button_Click_1"/>
+        <ListView Grid.ColumnSpan="3" Margin="10,35,10,70" Name="listView">
+
+        </ListView>
+
+
+    </Grid>
+</Window>
